@@ -1230,7 +1230,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/cart@file:./screens/cart/":
+"@screens/cart@file:./screens/cart":
+  version "1.0.0"
+
+"@screens/create-post@file:./screens/create-post/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
